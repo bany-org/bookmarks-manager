@@ -1,0 +1,21 @@
+.differenceOne, .differenceTwo, 
+.differenceThree, .differenceFour,
+.differenceFive {
+    stroke: red;
+    stroke-width: 3px;
+    stroke-opacity: 0;
+    fill: white;
+    fill-opacity: 0;
+}
+
+#pic1, #pic1b {
+    display: inline;
+}
+
+#pic2, #pic2b {
+    display: none;
+}
+
+#pic3, #pic3b {
+    display: none;
+}

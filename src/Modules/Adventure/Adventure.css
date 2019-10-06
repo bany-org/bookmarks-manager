@@ -1,0 +1,62 @@
+#body1{
+    background: url('./Graphics/main.jpg');
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 600px;
+    background-position: center;
+    margin: auto;
+    border: solid white;
+}
+
+.wewdiv{
+    width: 250px;
+    height: 280px;
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+.button{
+    width: 230px;
+    height: 40px;
+    font-size: 75%;
+    font-weight: bold;
+    border-radius: 12px;
+    background: inherit;
+    color: white;
+    border: groove;
+}
+
+.button:disabled{
+    width: 230px;
+    height: 30px;
+    font-size: 75%;
+    font-weight: bold;
+    border-radius: 12px;
+    background: inherit;
+    color: gray;
+    height: 40px;
+}
+
+#div1{
+    visibility: visible;
+}
+
+#div2{
+    visibility: visible;
+}
+
+#div3{
+    visibility: hidden;
+}
+
+#div4{
+    visibility: hidden;
+}
+#div5{
+    visibility: hidden;
+}
+
+#div6{
+    visibility: hidden;
+}

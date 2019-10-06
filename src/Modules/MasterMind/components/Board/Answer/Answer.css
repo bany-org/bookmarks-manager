@@ -1,0 +1,14 @@
+.Answer {
+    height: 40px;
+    margin: 10px auto;
+    display: inline-block;
+    float: left;
+    background-color: palegoldenrod;
+}
+
+.Answer1 {
+    height: 40px;
+    margin: 10px auto;
+    display: inline-block;
+}
+

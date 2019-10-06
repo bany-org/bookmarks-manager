@@ -1,0 +1,16 @@
+.button {
+    width: 200px;
+    border: none;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+}
+
+.button:hover {
+    width: 220px;
+}
+
+.button_img {
+    width: 100%;
+    border-radius: 25px;
+}
