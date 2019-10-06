@@ -1,0 +1,136 @@
+body{
+	width: 95vw;
+	height: 95vh;
+	background-color: black;
+	color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+td{
+	vertical-align:top; 
+	text-align: center;
+	align: center;
+}
+
+#tdPole1{
+	width: 100%;
+	height: 10%;
+}
+
+#tdPole2{
+	width: 20%;
+	height: 60%;
+	background-image: url("./Grafika/tablica.jpg");
+	background-position: bottom;
+	border: solid;
+	border-color: white;
+	text-align: left;
+}
+
+#tdPole3{
+	width: 60%;
+	height: 60%;
+	background-image: url("./Grafika/tablica.jpg");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 150%;
+	border: solid;
+	border-color: white;
+}
+
+#tdPole4{
+	width: 20%;
+	height: 60%;
+	background-image: url("./Grafika/tablica.jpg");
+	background-position: bottom;
+	border: solid;
+	border-color: white;
+
+}
+
+#tdPole5{
+	width: 100%;
+	height: 50px;
+	border: solid;
+	border-color: white;
+	background-color: gray;
+	color: black;
+	font-family: auto;
+	font-size: 150%;
+	text-align: left;
+}
+
+input{
+  position: center;
+  border: none;
+  display: inline;
+  font-family: inherit;
+  font-size: 200%;
+  color: white;
+  caret-color: transparent;
+  padding: none;
+  width: 150px;
+  background-color: inherit;
+}
+
+#zadanie{
+	display: inline;
+	font-size: 200%;
+}
+
+#secTab{
+	width: 790px;
+}
+
+.resNum{
+	background-color: inherit;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	border: none;
+}
+
+#backBut{
+	background-color: inherit;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	border: none;
+}
+
+#subBut{
+	background-color: inherit;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	border: none;
+}
+
+#timeDiv{
+	font-family: "digital-7";
+	font-family: url("digital-7.ttf");
+	color: red;	
+	width: 200px;
+	height: 50px;
+	background-color: black;
+	font-size:300%;
+	border: solid white;
+}
+
+@font-face{
+ font-family:'digital-7';
+ 	src: url('digital-7.ttf');
+}
+
+#resButton, #backButton{
+	background-color: yellow;
+	border-color: red;
+}
+
+
+
+
+
+
+

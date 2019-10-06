@@ -1,0 +1,36 @@
+.board {
+    width: 280px;
+    height: 550px;
+    background-color: olivedrab;
+    border: solid black 2px;
+    margin: 10px auto;
+}
+
+.hiddenContainer {
+    background-color: darkslategray;
+    height: 40px;
+    width: 220px;
+    margin: 5px;
+    color: red;
+}
+
+.myGuessContainer {
+    background-color: white;
+    height: 300px;
+    width: 220px;
+    margin: 5px;
+    overflow: auto;
+}
+
+.preparedAnswer {
+    background-color: white;
+    height: 100px;
+    width: 220px;
+    margin: 5px;
+}
+
+.colorsContainer {
+    width: 220px;
+    height: 40px;
+    margin: 5px;
+}
